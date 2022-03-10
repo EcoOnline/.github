@@ -1,2 +1,1 @@
-# .github
-EcoOnline
+# EcoOnline
